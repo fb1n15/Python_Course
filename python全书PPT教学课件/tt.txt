@@ -1,0 +1,5 @@
+Windows命令行，输入：python -m ensurepip，
+别的博客说执行这一步添加环境变量就可以，但是我的电脑不成功，此时scripts文件夹中产生easy_install-3.6文件
+
+输入命令：easy_install-3.6.exe pip
+然后配置环境变量
